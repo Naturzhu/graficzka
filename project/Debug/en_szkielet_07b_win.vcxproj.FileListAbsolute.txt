@@ -1,0 +1,6 @@
+C:\Users\Krzysztof Mularski\Desktop\Grafika\laby\en_szkielet_07b_win\Debug\en_szkielet_07b_win.exe
+C:\Users\Krzysztof Mularski\Desktop\Grafika\laby\en_szkielet_07b_win\Debug\en_szkielet_07b_win.pdb
+C:\Users\Krzysztof Mularski\Desktop\Grafika\laby\project\Debug\en_szkielet_07b_win.exe
+C:\Users\Krzysztof Mularski\Desktop\Grafika\laby\project\Debug\en_szkielet_07b_win.pdb
+C:\Users\Natur\source\repos\graficzka\project\Debug\en_szkielet_07b_win.exe
+C:\Users\Natur\source\repos\graficzka\project\Debug\en_szkielet_07b_win.pdb
