@@ -18,6 +18,32 @@
 // - More secure. Change another line and you can inject code.
 // - Loading from memory, stream, etc
 
+void conv3(std::vector<glm::vec3>& vector, std::vector<float>& newVector)
+{
+	glm::vec3 v3;
+	while (vector.size())
+	{
+		v3 = vector.front();
+		for (int i = 0; i < 3; i++)
+			newVector.push_back(v3[i]);
+		newVector.push_back(1);
+		vector.erase(vector.begin());
+	}
+}
+
+void conv2(std::vector<glm::vec2>& vector, std::vector<float>& newVector)
+{
+	glm::vec2 v2;
+	while (vector.size())
+	{
+		v2 = vector.front();
+		for (int i = 0; i < 2; i++)
+			newVector.push_back(v2[i]);
+		newVector.push_back(1);
+		vector.erase(vector.begin());
+	}
+}
+
 bool loadOBJ(
 	const char * path, 
 	std::vector<glm::vec3> & out_vertices, 

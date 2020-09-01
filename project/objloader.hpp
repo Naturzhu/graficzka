@@ -1,6 +1,10 @@
 #ifndef OBJLOADER_H
 #define OBJLOADER_H
 
+void conv3(std::vector<glm::vec3>& vector, std::vector<float>& newVector);
+
+void conv2(std::vector<glm::vec2>& vector, std::vector<float>& newVector);
+
 bool loadOBJ(
 	const char * path, 
 	std::vector<glm::vec3> & out_vertices, 
