@@ -1,0 +1,81 @@
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/Visual Studio/VC/Tools/MSVC/14.25.28610/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ wersja kompilatora optymalizującego 19.25.28614 dla x64
+Copyright (C) Microsoft Corporation. Wszystkie prawa zastrzeżone.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.25.28614.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/Users/Natur/source/repos/graficzka/project/glm/out/build/x64-Debug/CMakeFiles/3.16.19112601-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Visual Studio/VC/Tools/MSVC/14.25.28610/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ wersja kompilatora optymalizującego 19.25.28614 dla x64
+Copyright (C) Microsoft Corporation. Wszystkie prawa zastrzeżone.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.25.28614.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Natur/source/repos/graficzka/project/glm/out/build/x64-Debug/CMakeFiles/3.16.19112601-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/Natur/source/repos/graficzka/project/glm/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_6d2ea && [1/2] Building C object CMakeFiles\cmTC_6d2ea.dir\testCCompiler.c.obj
+[2/2] Linking C executable cmTC_6d2ea.exe
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Natur/source/repos/graficzka/project/glm/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_10fbb && [1/2] Building C object CMakeFiles\cmTC_10fbb.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_10fbb.exe
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/Natur/source/repos/graficzka/project/glm/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_e0165 && [1/2] Building CXX object CMakeFiles\cmTC_e0165.dir\testCXXCompiler.cxx.obj
+[2/2] Linking CXX executable cmTC_e0165.exe
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Natur/source/repos/graficzka/project/glm/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Visual Studio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_de71e && [1/2] Building CXX object CMakeFiles\cmTC_de71e.dir\CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_de71e.exe
+
+
+
